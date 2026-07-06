@@ -30,18 +30,6 @@ The analysis includes:
 
 ---
 
-# 📈 Dashboard Preview
-
-## Executive Sales Dashboard
-
-![Executive Dashboard](Executive_Dashboard.png)
-
----
-
-## Customer Analytics Dashboard
-
-![Customer Analytics](Customer_Analytics.png)
-
 # 📌 Key KPIs
 
 ### Executive Dashboard
