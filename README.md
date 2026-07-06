@@ -114,22 +114,23 @@ The analysis includes:
 # 📁 Project Structure
 
 ```
-Brazilian-E-Commerce-Analytics
+Brazilian-E-Commerce-Analytics-PowerBI-SQL
 │
-├── Dashboard
+├── 📂 Dashboard
 │   └── Brazilian_ECommerce_Dashboard.pbix
 │
-├── SQL
+├── 📂 Images
+│   ├── Executive_Dashboard.png
+│   ├── Customer_Analytics.png
+│
+├── 📂 SQL Files
 │   ├── Sales_Analysis.sql
-│   ├── Customer_Analytics.sql
+│   ├── RFM_Analysis.sql
 │   ├── Product_Analysis.sql
 │   ├── Seller_Analysis.sql
-│   └── RFM_Analysis.sql
+│   └── Customer_Analytics.sql
 │
-│── Executive_Dashboard.png
-│── Customer_Analytics.png
-│
-└── README.md
+├── README.md
 ```
 
 ---
