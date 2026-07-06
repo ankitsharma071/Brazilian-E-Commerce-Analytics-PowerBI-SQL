@@ -126,9 +126,8 @@ Brazilian-E-Commerce-Analytics
 │   ├── Seller_Analysis.sql
 │   └── RFM_Analysis.sql
 │
-├── Images
-│   ├── Executive_Dashboard.png
-│   └── Customer_Analytics.png
+│── Executive_Dashboard.png
+│── Customer_Analytics.png
 │
 └── README.md
 ```
