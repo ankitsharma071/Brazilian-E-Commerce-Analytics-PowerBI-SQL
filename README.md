@@ -1,6 +1,7 @@
 # 📊 Brazilian E-Commerce Analytics Dashboard
 
-![Dashboard](Images/Executive_Dashboard.png)
+![Dashboard](Images/Executive_Dashboard.jpg)
+
 An end-to-end Business Intelligence project built using **MySQL** and **Power BI** on the Brazilian E-Commerce (Olist) dataset. This project focuses on transforming raw transactional data into actionable business insights through advanced SQL analysis and interactive dashboards.
 
 ---
